@@ -1,11 +1,15 @@
 html{
-  font-family:helvetica,Arial,sans-serif;
+  font-family: 'Merriweather', Georgia, serif;
   font-size:100%;
 }
 
 body{
   font-size:1em;
   font-family:inherit;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family:helvetica,Arial,sans-serif;
 }
 
 h1 {
